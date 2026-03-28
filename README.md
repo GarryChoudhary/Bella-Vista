@@ -1,1 +1,2 @@
-This is a Bella Vista Restaurent website 
+This is a Bella Vista Restaurent website.
+
