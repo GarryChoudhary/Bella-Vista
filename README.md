@@ -24,7 +24,7 @@ A modern, responsive restaurant website built using HTML and CSS. This project s
 
 🚀 How to Run:-
 1.Download or clone the repository
-  "git clone https://github.com/your-username/bella-vista.git"
+  "git clone https://github.com/GarryChoudhary/Bella-Vista.git"
 
 2.Open the project folder
 3.Double-click on index.html
